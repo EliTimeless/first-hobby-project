@@ -1,0 +1,92 @@
+body {
+  background: linear-gradient(180deg, #6883bc 40%, #8e4f87 88%);
+  color: #8a307f;
+  text-align: center;
+}
+
+h1,
+h2 {
+  font-family: "Gill Sans", "Gill Sans MT", sans-serif;
+  color: #8a307f;
+  padding: 22px;
+  border-radius: 15px;
+  margin: 20px;
+  line-height: normal;
+}
+
+h4,
+h5 {
+  font-family: "Gill Sans", "Gill Sans MT", sans-serif;
+}
+
+h4 {
+  font-size: 25px;
+  background-color: #8a307f;
+  border-radius: 20px;
+  color: antiquewhite;
+}
+
+hr {
+  border: 1px dotted antiquewhite;
+}
+h5 {
+  color: #2f3c7e;
+  font-size: 20px;
+  text-align: center;
+  margin: 10px;
+}
+img {
+  border: dotted 1px #8e4f87;
+  border-radius: 20px;
+  margin: 10px;
+  width: 500px;
+  height: 180px;
+  padding: 10px;
+  display: inline;
+  object-fit: scale;
+}
+span {
+  font-size: 25px;
+  color: rgb(252, 232, 205);
+}
+
+a {
+  color: rgb(67, 88, 172);
+}
+button {
+  text-align: center;
+  font-size: 17px;
+  color: antiquewhite;
+  background-color: #a20490;
+  font-family: optima;
+  font-weight: bold;
+  margin: 40px;
+  border: solid 2px rgb(18, 11, 157);
+  border-radius: 15px;
+  padding: 25px 28px 25px 28px;
+  box-shadow: 8px 5px 5px #8b67ec;
+  transition: all 200ms ease;
+  cursor: pointer;
+}
+button:hover {
+  background: rgb(18, 11, 157);
+  color: #cf06b8;
+}
+
+.signature {
+  color: #2f3c7e;
+  font-family: "Gill Sans", "Gill Sans MT", sans-serif;
+  font-size: 20px;
+}
+.text1 {
+  font-family: "Gill Sans", "Gill Sans MT", sans-serif;
+  color: antiquewhite;
+  text-align: left;
+  margin: 15px;
+  font-size: 20px;
+}
+.text2 {
+  color: #2f3c7e;
+  text-align: left;
+  margin: 15px;
+}

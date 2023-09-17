@@ -11,7 +11,8 @@ h2 {
   padding: 22px;
   border-radius: 15px;
   margin: 20px;
-  line-height: normal;
+  line-height: 1.5;
+  font-weight: bold;
 }
 
 h4,
@@ -42,8 +43,6 @@ img {
   width: 500px;
   height: 180px;
   padding: 10px;
-  display: inline;
-  object-fit: scale;
 }
 span {
   font-size: 25px;
